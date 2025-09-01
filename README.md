@@ -5,7 +5,7 @@
     - Liderei as estratégias de crescimento como **Gestor de Tráfego**, dominando a aquisição de usuários através de campanhas no Facebook, e fui responsável pela **administração geral** da plataforma.
 - ### ⚙️ Estudante de Engenharia de Computação | 4º Período
     - Entusiasta de **Redes Neurais e Machine Learning**, com foco no desenvolvimento e implementação de redes.
-    - Com grande interesse em **Física**, e neste perfil você encontrará projetos sobre sua aplicação prática na computação.
+    - Com grande interesse em **Física**, neste perfil você encontrará projetos sobre a aplicação prática na computação.
 - ### 🌐 Idiomas
     - PT-BR (Nativo) | ES (C1) | ENG (B2)
 
