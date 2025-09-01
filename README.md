@@ -7,7 +7,7 @@
     - Entusiasta de **Redes Neurais e Machine Learning**, com foco no desenvolvimento e implementação de redes.
     - Apreciador da **Física**, e neste perfil você encontrará projetos sobre sua aplicação prática na computação.
 - ### 🌐 Idiomas
-    - PT (C2) | ES (C1) | ENG (B2)
+    - PT-BR (Nativo) | ES (C1) | ENG (B2)
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/pbheitor)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heitorbarcellos07@gmail.com)
