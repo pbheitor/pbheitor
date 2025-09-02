@@ -4,7 +4,6 @@
     - Levei o Habblive, uma comunidade virtual de avatares, a alcançar **3.7 milhões de usuários registrados**, tornando-o um projeto de referência em seu nicho por mais de uma década.
     - Liderei as estratégias de crescimento como Gestor de Tráfego, dominando a aquisição e retenção de usuários e sendo responsável pela administração geral da plataforma.
 - ### ⚙️ Graduando em Engenharia de Computação | 4º Período
-    - Atuo como monitor de Estrutura de Dados, onde desenvolvo minhas habilidades de ensino e aprofundo meus conhecimentos técnicos.
     - Entusiasta de Redes Neurais e Machine Learning, com foco em treinar modelos para resolver problemas complexos.
     - Com grande interesse em Física, desenvolvo projetos que exploram a aplicação prática de seus conceitos na computação.
 - ### 🌐 Idiomas
