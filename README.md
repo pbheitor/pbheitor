@@ -2,7 +2,7 @@
 
 - ### CEO & Founder @ Habblive (2015-Presente)
     - Levei o Habblive, uma comunidade virtual de avatares, a alcançar **3.7 milhões de usuários registrados**, tornando-o um projeto de referência em seu nicho por mais de uma década.
-    - Liderei as estratégias de crescimento como **Gestor de Tráfego**, dominando a aquisição de usuários através de campanhas no Facebook, e fui responsável pela **administração geral** da plataforma.
+    - Liderei as estratégias de crescimento como Gestor de Tráfego, dominando a aquisição e retenção de usuários e sendo responsável pela administração geral da plataforma.
 - ### ⚙️ Graduando em Engenharia de Computação | 4º Período
     - Entusiasta de **Redes Neurais e Machine Learning**, com foco no desenvolvimento e implementação de redes.
     - Com grande interesse em **Física**, neste perfil você encontrará projetos sobre a aplicação prática na computação.
