@@ -1,7 +1,7 @@
 ## Hello world, I'm <a href="https://github.com/pbheitor/">pbheitor</a> 👋
 
 - ### CEO & Founder @ Habblive (2015-Presente)
-    - Levei o Habblive, uma comunidade virtual de avatares, a alcançar **3.7 milhões de usuários registrados**, tornando-o um projeto de referência em seu nicho por mais de uma década.
+    - Levei o Habblive, uma comunidade virtual de avatares, a alcançar **<a href="https://prnt.sc/sdFEZ71MlxHL" target="_blank">3.7 milhões de usuários registrados**</a>, tornando-o um projeto de referência em seu nicho por mais de uma década.
     - Liderei as estratégias de crescimento como Gestor de Tráfego, dominando a aquisição e retenção de usuários e sendo responsável pela administração geral da plataforma.
 - ### ⚙️ Graduando em Engenharia de Computação | 4º Período
     - Entusiasta de Redes Neurais e Machine Learning, com foco em treinar modelos para resolver problemas complexos.
